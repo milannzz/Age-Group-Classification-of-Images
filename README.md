@@ -1,2 +1,3 @@
 # Image-to-Age-Group-Predictions
-**![Image of Toddlers]**(https://github.com/milannzz/Image-to-Age-Group-Predictions/blob/master/Images/Todller.jpg?raw=true)
+
+![Alt text](/relative/path/to/Todller.jpg?raw=true "Optional Title")
