@@ -3,7 +3,7 @@
 The project is the classification of the image of group of different age groups using tensorflow and 
 pre-trained vgg-16 model because of very sparse availability of training data.
 
-![VGG-16 Model ](https://neurohive.io/en/popular-networks/vgg16/)
+[VGG-16 Model ](https://neurohive.io/en/popular-networks/vgg16/)
 
 Below are few examples of training data images -
 
